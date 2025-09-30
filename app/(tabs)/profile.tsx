@@ -1,3 +1,4 @@
+//Mi nueva vista
 import { useState } from 'react';
 import { Image, StyleSheet, TextInput, TouchableOpacity, ScrollView } from 'react-native';
 import { ThemedText } from '@/components/themed-text';
